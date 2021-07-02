@@ -13,3 +13,9 @@ https://github.com/Unity-Technologies/com.unity.ads.ios-support
 ```
 "com.unity.purchasing": "3.2.1",
 ```
+
+## Banner Ad Settings
+
+```
+https://github.com/truonguit2010/realbizgames-banner-ads-setting
+```
