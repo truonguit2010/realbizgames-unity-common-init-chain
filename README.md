@@ -13,11 +13,6 @@ Let's start from NOW or NEVER.
 # Inhouse Components
 
 
-## Unity Purchasing
-
-```
-"com.unity.purchasing": "3.2.1",
-```
 
 ## RealbizGames Data
 https://github.com/truonguit2010/realbizgames-data/tree/main
@@ -82,3 +77,9 @@ Download these packages at https://developers.google.com/unity/archive
 ```
 "com.unity.ads.ios-support": "1.0.0",
 ```
+#### 7. Unity Purchasing
+- https://docs.unity3d.com/Manual/com.unity.purchasing.html
+```
+"com.unity.purchasing": "3.2.1",
+```
+
