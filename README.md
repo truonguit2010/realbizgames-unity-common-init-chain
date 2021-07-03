@@ -51,6 +51,18 @@ Download these packages at https://developers.google.com/unity/archive
 "com.google.firebase.messaging": "file:../Tarballs/GooglePackages/710/com.google.firebase.messaging-7.1.0.tar",
 "com.google.firebase.remote-config": "file:../Tarballs/GooglePackages/710/com.google.firebase.remote-config-7.1.0.tar",
 ```
+#### 3. Google Play
+We use:
+- InApp Store Rating
+
+Download these packages at https://developers.google.com/unity/archive
+
+```
+"com.google.android.appbundle": "file:../Tarballs/GooglePackages/play/com.google.android.appbundle-1.4.1.tgz",
+"com.google.play.common": "file:../Tarballs/GooglePackages/play/com.google.play.common-1.4.1.tgz",
+"com.google.play.core": "file:../Tarballs/GooglePackages/play/com.google.play.core-1.4.1.tgz",
+"com.google.play.review": "file:../Tarballs/GooglePackages/play/com.google.play.review-1.4.1.tgz",
+```
 
 #### 3. iOS 14 ATT
 - https://github.com/Unity-Technologies/com.unity.ads.ios-support
