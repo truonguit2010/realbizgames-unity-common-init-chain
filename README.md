@@ -34,8 +34,25 @@ https://github.com/truonguit2010/realbizgames-banner-ads-setting
 # 3rd Party Components
 #### 1. Facebook SDK
 - https://developers.facebook.com/docs/unity/
+#### 2. Firebase
+We use:
+- Firebase Analytics
+- Google Analytics
+- Firebase Remote Config
+- Firebase Cloud Messaging
 
-#### 2. iOS 14 ATT
+Download these packages at https://developers.google.com/unity/archive
+
+```
+"com.google.external-dependency-manager": "file:../Tarballs/GooglePackages/710/com.google.external-dependency-manager-1.2.165.tar",
+"com.google.firebase.analytics": "file:../Tarballs/GooglePackages/710/com.google.firebase.analytics-7.1.0.tar",
+"com.google.firebase.app": "file:../Tarballs/GooglePackages/710/com.google.firebase.app-7.1.0.tar",
+"com.google.firebase.crashlytics": "file:../Tarballs/GooglePackages/710/com.google.firebase.crashlytics-7.1.0.tar",
+"com.google.firebase.messaging": "file:../Tarballs/GooglePackages/710/com.google.firebase.messaging-7.1.0.tar",
+"com.google.firebase.remote-config": "file:../Tarballs/GooglePackages/710/com.google.firebase.remote-config-7.1.0.tar",
+```
+
+#### 3. iOS 14 ATT
 - https://github.com/Unity-Technologies/com.unity.ads.ios-support
 
 ```
