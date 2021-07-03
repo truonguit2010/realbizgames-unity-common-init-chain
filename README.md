@@ -2,6 +2,14 @@
 
 ![The product concept](Images~/Lego_Concept.jpeg)
 
+# The Concept
+1. Games contains many the same resuable components.
+2. Build these "the same resuable components" into many simple, statble, scalable smaller projects.
+3. Combine them to make a big game project.
+
+
+Let's start from NOW or NEVER.
+  
 ## iOS 14 ATT
 
 https://github.com/Unity-Technologies/com.unity.ads.ios-support
