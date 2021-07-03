@@ -219,3 +219,6 @@ Download these packages at https://developers.google.com/unity/archive
 "com.unity.purchasing": "3.2.1",
 ```
 
+#### 8. NewtonSoft for Json Serialization.
+- https://github.com/jilleJr/Newtonsoft.Json-for-Unity
+
