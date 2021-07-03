@@ -12,7 +12,31 @@ Let's start from NOW or NEVER.
   
 # Inhouse Components
 
+#### 1. Rule Pattern Template.
 
+We use:
+- Build common rule patterns that can be used in many projects.
+- https://github.com/truonguit2010/realbizgames-rule-pattern.git
+
+```
+"com.realbizgames.pattern.rule": "https://github.com/truonguit2010/realbizgames-rule-pattern.git#v1.0.0",
+```
+
+"com.realbizgames.data": "https://github.com/truonguit2010/realbizgames-data.git#v1.0.0",
+    "com.realbizgames.deeplink": "https://github.com/truonguit2010/realbizgames-unity-deeplink.git#v1.0.0",
+    "com.realbizgames.game.config": "https://github.com/truonguit2010/realbizgames-game-config.git#v1.0.0",
+    "com.realbizgames.masterdata.iap": "https://github.com/truonguit2010/realbizgames-masterdata-iap.git#v1.0.0",
+    "com.realbizgames.pattern.chain": "https://github.com/truonguit2010/realbizgames-unity-chain-pattern.git#v1.0.0",
+    
+    "com.realbizgames.settings.banner": "https://github.com/truonguit2010/realbizgames-banner-ads-setting.git#v1.0.0",
+    "com.realbizgames.settings.dialog.iap": "https://github.com/truonguit2010/realbizgames-iap-dialog-config.git#v1.0.0",
+    "com.realbizgames.settings.interstitial": "https://github.com/truonguit2010/realbizgames-interstitial-ads-setting.git#v1.0.0",
+    "com.realbizgames.shopping": "https://github.com/truonguit2010/realbizgames-unity-shopping.git#v1.0.0",
+    "com.realbizgames.storerating": "https://github.com/truonguit2010/realbizgames-unity-storerating.git#v1.0.0",
+    "com.realbizgames.userplayingdata.gamesetting": "https://github.com/truonguit2010/realbizgames-userplayingdata-gamesetting.git#v1.0.0",
+    "com.realbizgames.userplayingdata.highscore": "https://github.com/truonguit2010/realbizgames-userplayingdata-highscore.git#v1.0.0",
+    "com.realbizgames.userplayingdata.userads": "https://github.com/truonguit2010/realbizgames-userplayingdata-ads.git#v1.0.0",
+    "com.realbizgames.userplayingdata.userlevel": "https://github.com/truonguit2010/realbizgames-upd-userlevel.git#v1.0.0",
 
 ## RealbizGames Data
 https://github.com/truonguit2010/realbizgames-data/tree/main
