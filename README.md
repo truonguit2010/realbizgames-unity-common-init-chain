@@ -65,6 +65,15 @@ Download these packages at https://developers.google.com/unity/archive
 ```
 #### 4. Appslfyer
 - https://github.com/AppsFlyerSDK/appsflyer-unity-plugin
+
+***Problems and Tips:***
+1. Unity cannot handle deeplink when using Appsflyer package. 
+2. So We need to change a little bit Appsflyer code and build it as a tarball that ca be used as a package.
+
+```
+"appsflyer-unity-plugin": "file:../Tarballs/AppsFlyerPackages/appsflyer-unity-plugin-6.3.1.tgz",
+```
+  
 #### 5. Ironsrouce
 - https://developers.ironsrc.com/ironsource-mobile/unity/unity-plugin/#step-3
 #### 6. iOS 14 ATT
