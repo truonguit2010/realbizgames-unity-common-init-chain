@@ -63,8 +63,11 @@ Download these packages at https://developers.google.com/unity/archive
 "com.google.play.core": "file:../Tarballs/GooglePackages/play/com.google.play.core-1.4.1.tgz",
 "com.google.play.review": "file:../Tarballs/GooglePackages/play/com.google.play.review-1.4.1.tgz",
 ```
-
-#### 3. iOS 14 ATT
+#### 4. Appslfyer
+- https://github.com/AppsFlyerSDK/appsflyer-unity-plugin
+#### 5. Ironsrouce
+- https://developers.ironsrc.com/ironsource-mobile/unity/unity-plugin/#step-3
+#### 6. iOS 14 ATT
 - https://github.com/Unity-Technologies/com.unity.ads.ios-support
 
 ```
