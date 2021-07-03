@@ -1,5 +1,7 @@
 # realbizgames-unity-common-init-chain
 
+![The product concept](Images~/Lego_Concept.jpeg)
+
 ## iOS 14 ATT
 
 https://github.com/Unity-Technologies/com.unity.ads.ios-support
