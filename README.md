@@ -89,28 +89,79 @@ We use:
 ```
 "com.realbizgames.settings.interstitial": "https://github.com/truonguit2010/realbizgames-interstitial-ads-setting.git#v1.0.0",
 ```
+#### 9. RealbizGames Ad Monetization.
+We use:
+- Use the same interface for Admob, Ironsource, etc.
+- Config to easy integrate with other components.
+- https://github.com/truonguit2010/realbizgames-unity-ads
 
-    "com.realbizgames.settings.dialog.iap": "https://github.com/truonguit2010/realbizgames-iap-dialog-config.git#v1.0.0",
-    
-    "com.realbizgames.shopping": "https://github.com/truonguit2010/realbizgames-unity-shopping.git#v1.0.0",
-    "com.realbizgames.storerating": "https://github.com/truonguit2010/realbizgames-unity-storerating.git#v1.0.0",
-    "com.realbizgames.userplayingdata.gamesetting": "https://github.com/truonguit2010/realbizgames-userplayingdata-gamesetting.git#v1.0.0",
-    "com.realbizgames.userplayingdata.highscore": "https://github.com/truonguit2010/realbizgames-userplayingdata-highscore.git#v1.0.0",
-    "com.realbizgames.userplayingdata.userads": "https://github.com/truonguit2010/realbizgames-userplayingdata-ads.git#v1.0.0",
-    "com.realbizgames.userplayingdata.userlevel": "https://github.com/truonguit2010/realbizgames-upd-userlevel.git#v1.0.0",
-
-## RealbizGames Data
-https://github.com/truonguit2010/realbizgames-data/tree/main
-```
-"com.realbizgames.data": "https://github.com/truonguit2010/realbizgames-data.git#v1.0.0",
-```
-
-## Banner Ad Settings
+#### 10. User Ads.
+We use:
+- Save user ads data like: noBanerAds, noVideoAds, etc.
+- https://github.com/truonguit2010/realbizgames-userplayingdata-ads.git
 
 ```
-https://github.com/truonguit2010/realbizgames-banner-ads-setting
+"com.realbizgames.userplayingdata.userads": "https://github.com/truonguit2010/realbizgames-userplayingdata-ads.git#v1.0.0",
 ```
 
+#### 11. RealbizGames Store Rating Packages.
+We use:
+- in-app store rating dilog.
+- https://github.com/truonguit2010/realbizgames-unity-storerating.git
+
+
+```
+"com.realbizgames.storerating": "https://github.com/truonguit2010/realbizgames-unity-storerating.git#v1.0.0",
+```
+#### 12. Payment/Shopping Package.
+We use:
+- The same API for many payment method.
+- Enable/Disable via config.
+- https://github.com/truonguit2010/realbizgames-unity-shopping.git
+
+```
+"com.realbizgames.shopping": "https://github.com/truonguit2010/realbizgames-unity-shopping.git#v1.0.0",
+```
+#### 13. IAP Dialog Config.
+We use:
+- Config Where to show a IAP dialog.
+- Config How to show a IAP Dialog.
+- https://github.com/truonguit2010/realbizgames-iap-dialog-config.git
+
+```
+"com.realbizgames.settings.dialog.iap": "https://github.com/truonguit2010/realbizgames-iap-dialog-config.git#v1.0.0",
+```
+
+#### 14. UPD Game Settings Package.
+We use:
+- On/Off Sound
+- On/Off Music
+- Language
+- https://github.com/truonguit2010/realbizgames-userplayingdata-gamesetting.git
+
+```
+"com.realbizgames.userplayingdata.gamesetting": "https://github.com/truonguit2010/realbizgames-userplayingdata-gamesetting.git#v1.0.0",
+```
+#### 15. HighScore Package.
+We use:
+- Local High Score Storage.
+- Send Score to Google Play Service.
+- Send Score to Game Center Service.
+- Send Score to a backend service.
+
+```
+"com.realbizgames.userplayingdata.highscore": "https://github.com/truonguit2010/realbizgames-userplayingdata-highscore.git#v1.0.0",
+```
+
+#### 16. User Level Index Package.
+We use:
+- Save data to local.
+- https://github.com/truonguit2010/realbizgames-upd-userlevel.git
+
+```
+"com.realbizgames.userplayingdata.userlevel": "https://github.com/truonguit2010/realbizgames-upd-userlevel.git#v1.0.0",
+```
+   
 # 3rd Party Components
 #### 1. Facebook SDK
 - https://developers.facebook.com/docs/unity/
