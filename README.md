@@ -224,3 +224,35 @@ Download these packages at https://developers.google.com/unity/archive
 
 #### 9. UITableView or ListView
 - https://github.com/zhaozilong1988/UITableViewForUnity
+
+# Conclusion
+```
+"appsflyer-unity-plugin": "file:../Tarballs/AppsFlyerPackages/appsflyer-unity-plugin-6.3.1.tgz",
+"com.google.android.appbundle": "file:../Tarballs/GooglePackages/play/com.google.android.appbundle-1.4.1.tgz",
+"com.google.external-dependency-manager": "file:../Tarballs/GooglePackages/710/com.google.external-dependency-manager-1.2.165.tar",
+"com.google.firebase.analytics": "file:../Tarballs/GooglePackages/710/com.google.firebase.analytics-7.1.0.tar",
+"com.google.firebase.app": "file:../Tarballs/GooglePackages/710/com.google.firebase.app-7.1.0.tar",
+"com.google.firebase.crashlytics": "file:../Tarballs/GooglePackages/710/com.google.firebase.crashlytics-7.1.0.tar",
+"com.google.firebase.messaging": "file:../Tarballs/GooglePackages/710/com.google.firebase.messaging-7.1.0.tar",
+"com.google.firebase.remote-config": "file:../Tarballs/GooglePackages/710/com.google.firebase.remote-config-7.1.0.tar",
+"com.google.play.common": "file:../Tarballs/GooglePackages/play/com.google.play.common-1.4.1.tgz",
+"com.google.play.core": "file:../Tarballs/GooglePackages/play/com.google.play.core-1.4.1.tgz",
+"com.google.play.review": "file:../Tarballs/GooglePackages/play/com.google.play.review-1.4.1.tgz",
+"com.realbizgames.data": "https://github.com/truonguit2010/realbizgames-data.git#v1.0.0",
+"com.realbizgames.deeplink": "https://github.com/truonguit2010/realbizgames-unity-deeplink.git#v1.0.0",
+"com.realbizgames.game.config": "https://github.com/truonguit2010/realbizgames-game-config.git#v1.0.0",
+"com.realbizgames.masterdata.iap": "https://github.com/truonguit2010/realbizgames-masterdata-iap.git#v1.0.0",
+"com.realbizgames.pattern.chain": "https://github.com/truonguit2010/realbizgames-unity-chain-pattern.git#v1.0.0",
+"com.realbizgames.pattern.rule": "https://github.com/truonguit2010/realbizgames-rule-pattern.git#v1.0.0",
+"com.realbizgames.settings.banner": "https://github.com/truonguit2010/realbizgames-banner-ads-setting.git#v1.0.0",
+"com.realbizgames.settings.dialog.iap": "https://github.com/truonguit2010/realbizgames-iap-dialog-config.git#v1.0.0",
+"com.realbizgames.settings.interstitial": "https://github.com/truonguit2010/realbizgames-interstitial-ads-setting.git#v1.0.0",
+"com.realbizgames.shopping": "https://github.com/truonguit2010/realbizgames-unity-shopping.git#v1.0.0",
+"com.realbizgames.storerating": "https://github.com/truonguit2010/realbizgames-unity-storerating.git#v1.0.0",
+"com.realbizgames.userplayingdata.gamesetting": "https://github.com/truonguit2010/realbizgames-userplayingdata-gamesetting.git#v1.0.0",
+"com.realbizgames.userplayingdata.highscore": "https://github.com/truonguit2010/realbizgames-userplayingdata-highscore.git#v1.0.0",
+"com.realbizgames.userplayingdata.userads": "https://github.com/truonguit2010/realbizgames-userplayingdata-ads.git#v1.0.0",
+"com.realbizgames.userplayingdata.userlevel": "https://github.com/truonguit2010/realbizgames-upd-userlevel.git#v1.0.0",
+"com.realbizgames.cloud.build": "https://github.com/truonguit2010/realbizgames-unity-cloud-build-auto-config.git#v1.0.0",
+"com.unity.device-simulator": "3.0.1-preview",
+```
